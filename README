@@ -1,0 +1,1 @@
+Ce code implémente un perceptron XOR simple utilisant Tkinter pour une interface utilisateur et une rétropropagation pour entraîner un modèle à prédire les résultats de l’opérateur XOR.
